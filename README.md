@@ -1,7 +1,8 @@
 # sprinklerProMini
 Sprinkler on arduino pro mini
 
-Поливалка для Arduiono Pro Mini(Mega328p)
+Поливалка для Arduino Pro Mini(Mega328p)
+
 Почти все время камень спит, просыпаясь раз в 8 сек.
 
 Включает светодиод во время включения насоса(13й пин)
